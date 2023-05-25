@@ -10,6 +10,8 @@ Pdf and pptx versions of the slides shown during the meetup
 
 Example Jupyter notebook and data files used with the visualisations
 
+_I haven't yet provided any requirement.txt or environment.yml to set up a Python environment for the example notebook - I will attempt that if requested but note the example notebook depends on more visualisation packages than I would normally install in a single Python environment, and they are a bit finicky and fussy about their dependency versions, so it's not always easy to get them to play nicely together._
+
 ## Summary
 
 This was the supporting materials for my [Python Adelaide Meetup](https://www.meetup.com/pythonadelaide/events/293393259/) held 25 May 2023.

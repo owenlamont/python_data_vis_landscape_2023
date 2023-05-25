@@ -16,6 +16,13 @@ _I haven't yet provided any requirement.txt or environment.yml to set up a Pytho
 
 This was the supporting materials for my [Python Adelaide Meetup](https://www.meetup.com/pythonadelaide/events/293393259/) held 25 May 2023.
 
+## More of Jake VanderPlas' Materials
+
+* [Personal GitHub page](https://github.com/jakevdp)
+* [Python Visualization Landscape Video 2017](https://youtu.be/FytuB8nFHPQ)
+* [How to Think about Data Visualization 2019](https://youtu.be/vTingdk_pVM)
+* [The Python Data Science Handbook (free ebook)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 ## Packages / Technology Example GitHub Page Links
 
 ### [hvPlot](https://github.com/holoviz/hvplot)

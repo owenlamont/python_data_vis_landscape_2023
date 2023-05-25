@@ -1,2 +1,67 @@
-# python_data_vis_landscape_2023
-Slides and examples given at the Python Adelaide Meetup
+# The Python Data Visualisation Landscape 2023
+
+## Directory Structure
+
+### slides
+
+Pdf and pptx versions of the slides shown during the meetup
+
+### example_code
+
+Example Jupyter notebook and data files used with the visualisations
+
+## Summary
+
+This was the supporting materials for my [Python Adelaide Meetup](https://www.meetup.com/pythonadelaide/events/293393259/) held 25 May 2023.
+
+## Packages / Technology Example GitHub Page Links
+
+### [hvPlot](https://github.com/holoviz/hvplot)
+
+### [ipyvizzu](https://github.com/vizzuhq/ipyvizzu)
+
+### [pydeck](https://github.com/visgl/deck.gl)
+
+### [ipycanvas](https://github.com/martinRenou/ipycanvas)
+
+### [ipycytoscope](https://github.com/cytoscape/ipycytoscape)
+
+### [pythreejs](https://github.com/jupyter-widgets/pythreejs)
+
+_At the time of writing version 2.4.2 of pythreejs was having issues installing with the latest version of Jupyter widgets so be wary when installing this._
+
+### [pyvista](https://github.com/pyvista/pyvista)
+
+### [Dear PyGUI](https://github.com/hoffstadt/DearPyGui)
+
+### [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph)
+
+### [ydata_profiling](https://github.com/ydataai/ydata-profiling)
+
+### [pygwalker](https://github.com/Kanaries/pygwalker)
+
+### [lux](https://github.com/lux-org/lux)
+
+_Note I don't recommend installing Lux unless you see it updated past version 0.5.1 with support for later Jupyter lab and Pandas releases._
+
+### [Sketch](https://github.com/approximatelabs/sketch)
+
+### [Pandas-ai](https://github.com/gventuri/pandas-ai)
+
+### [Dash](https://github.com/plotly/dash)
+
+### [Voilà](https://github.com/voila-dashboards/voila)
+
+### [Solara](https://github.com/widgetti/solara)
+
+### [Panel](https://github.com/holoviz/panel)
+
+### [Streamlit](https://github.com/streamlit/streamlit)
+
+### [Pyodide](https://github.com/pyodide/pyodide)
+
+### [PyScript](https://github.com/pyscript/pyscript)
+
+### [Jupyter Lite](https://github.com/jupyterlite/jupyterlite)
+
+### [Voici](https://github.com/voila-dashboards/voici)

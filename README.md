@@ -25,6 +25,12 @@ This was the supporting materials for my [Python Adelaide Meetup](https://www.me
 
 ## Packages / Technology Example GitHub Page Links
 
+### [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
+
+### [ipyvolume](https://github.com/widgetti/ipyvolume)
+
+### [Kaleido](https://github.com/plotly/Kaleido)
+
 ### [hvPlot](https://github.com/holoviz/hvplot)
 
 ### [ipyvizzu](https://github.com/vizzuhq/ipyvizzu)
